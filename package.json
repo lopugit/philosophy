@@ -4,7 +4,7 @@
   "description": "",
   "main": "node/index.js",
   "dependencies": {
-    "unconscious": "^1.0.1"
+    "experiences": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
