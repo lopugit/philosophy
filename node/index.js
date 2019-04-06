@@ -1,1 +1,1 @@
-module.exports = require('./schemabase.js')
+module.exports = require('./philosophy.js')
