@@ -1,3 +1,3 @@
 # hey elon
 ## email me
-### the@curkl.com
+### party@curkl.com
