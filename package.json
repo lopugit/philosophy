@@ -4,7 +4,7 @@
   "description": "",
   "main": "node/index.js",
   "dependencies": {
-    "sentience": "0.0.8"
+    "sentience": "0.0.9"
   },
   "devDependencies": {},
   "scripts": {
