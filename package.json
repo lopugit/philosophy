@@ -4,7 +4,7 @@
   "description": "",
   "main": "node/index.js",
   "dependencies": {
-    "experiences": "^1.0.5"
+    "sentience": "^1.0.5"
   },
   "devDependencies": {},
   "scripts": {
